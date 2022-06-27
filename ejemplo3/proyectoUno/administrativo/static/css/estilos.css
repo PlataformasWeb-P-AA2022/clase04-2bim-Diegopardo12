@@ -47,6 +47,10 @@ label {
 .miformulario{
   width: 40%;
 }
+section{
+  background: #fbbf00;
+}
+
 
 
 /*Menu */
@@ -55,6 +59,7 @@ label {
  */
 .top_menu ul
 {
+  background: #034275;
   list-style:none;
   float:left;
   padding: 5px;
@@ -67,7 +72,6 @@ label {
   margin-right:10px;
   margin-bottom:5px;
   text: #FFF;
-
 }
 
 footer{
